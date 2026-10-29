@@ -1,6 +1,10 @@
 .idea/
 .vscode/
 production/
+cmake-build-*/
+build/
+managed_components/
+sdkconfig
 fabrication-toolkit-options.json
 fp-lib-table
 

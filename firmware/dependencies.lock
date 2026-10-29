@@ -1,0 +1,62 @@
+dependencies:
+  espressif/cmake_utilities:
+    component_hash: 2061cf92b3ecd45dbfac0b9c8c1392108aaa584bd1a205cd1885cffb59a06266
+    dependencies:
+    - name: idf
+      require: private
+      version: '>=4.1'
+    source:
+      registry_url: https://components.espressif.com
+      type: service
+    version: 1.2.0
+  espressif/i2c_bus:
+    component_hash: 483112c1619c54c38d0b734fb25f1678733267858a77b7af2f48cc7db6dbbd84
+    dependencies:
+    - name: espressif/cmake_utilities
+      registry_url: https://components.espressif.com
+      require: private
+      version: '*'
+    - name: idf
+      require: private
+      version: '>=4.0'
+    source:
+      registry_url: https://components.espressif.com/
+      type: service
+    version: 1.5.2
+  espressif/max17048:
+    component_hash: 29171ad99421c917ebb8f626750225f4fb055e645892b9f46e8cf4bdcb9e39f6
+    dependencies:
+    - name: espressif/cmake_utilities
+      registry_url: https://components.espressif.com
+      require: private
+      version: '*'
+    - name: espressif/i2c_bus
+      registry_url: https://components.espressif.com
+      require: private
+      version: 1.5.*
+    - name: idf
+      require: private
+      version: '>=4.4'
+    source:
+      registry_url: https://components.espressif.com/
+      type: service
+    version: 0.2.0
+  idf:
+    source:
+      type: idf
+    version: 6.1.0
+  u8g2:
+    component_hash: c9915077baa4ee444ee93a5284d76f7ce6e810fe1755dfe8c14fa4d383feebbf
+    dependencies: []
+    source:
+      git: https://github.com/olikraus/u8g2
+      path: .
+      type: git
+    version: 414efcdb7a908667ea461c9e3a3a31da14fc4ea5
+direct_dependencies:
+- espressif/i2c_bus
+- espressif/max17048
+- u8g2
+manifest_hash: 1e8cd5b8b552b396c8c3885b9024497a3dcdfc9607220409b23101e7ac37e0ea
+target: esp32c6
+version: 3.0.0
