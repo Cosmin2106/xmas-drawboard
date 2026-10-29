@@ -14,14 +14,13 @@ void app_main() {
 
     u8g2_t dd;
     u8g2_Setup_ssd1315_i2c_128x64_noname_f(&dd, U8G2_R0, hal_u8g2_cb, hal_u8g2_delay);
-    u8g2_SetI2CAddress(&dd, DD_ADDR << 1);
     u8g2_InitDisplay(&dd);
     u8g2_SetPowerSave(&dd, 0);
 
     while (true) {
         u8g2_ClearBuffer(&dd);
         u8g2_SetFont(&dd, u8g2_font_ncenB08_tr);
-        u8g2_DrawStr(&dd, 0, 30, "Hello ESP!");
+        u8g2_DrawStr(&dd, 0, 20, "Hello ESP!");
         u8g2_SendBuffer(&dd);
 
         gpio_set_level(LED_PIN, 0);
