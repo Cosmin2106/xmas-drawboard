@@ -1,10 +1,20 @@
-#include "hal.h"
+#include "hal_extensions.h"
 
 #include <string.h>
 
-#include "i2c_bus.h"
 #include "freertos/FreeRTOS.h"
 #include "freertos/task.h"
+
+
+static i2c_config_t i2c_config = {
+    .mode = I2C_MODE_MASTER,
+    .sda_io_num = SDA_PIN,
+    .scl_io_num = SCL_PIN,
+    .sda_pullup_en = false,
+    .scl_pullup_en = false,
+    .master.clk_speed = I2C_FREQ_HZ
+};
+i2c_bus_handle_t i2c_bus = nullptr;
 
 void init_i2c() {
     i2c_bus = i2c_bus_create(I2C_NUM_0, &i2c_config);

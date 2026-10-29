@@ -1,6 +1,6 @@
 set(SOURCES
         firmware.c
-        hal.c
+        hal_extensions.c
 )
 
 idf_component_register(
