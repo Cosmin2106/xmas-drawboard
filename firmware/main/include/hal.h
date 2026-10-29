@@ -4,7 +4,7 @@
 #include "u8g2.h"
 
 #define I2C_FREQ_HZ 400000
-#define DD_ADDR 0x7B
+#define DD_ADDR 0x3C    // 7-bit address
 
 #define CT1_PIN GPIO_NUM_0
 #define CT2_PIN GPIO_NUM_1

@@ -14,6 +14,7 @@ void app_main() {
 
     u8g2_t dd;
     u8g2_Setup_ssd1315_i2c_128x64_noname_f(&dd, U8G2_R0, hal_u8g2_cb, hal_u8g2_delay);
+    u8g2_SetI2CAddress(&dd, DD_ADDR << 1);
     u8g2_InitDisplay(&dd);
     u8g2_SetPowerSave(&dd, 0);
 
