@@ -821,7 +821,7 @@
         "uuid": "5cdf0ecd-0838-4e57-ad21-0372fa2a058b"
       }
     ],
-    "used_designators": "#PWR12,#PWR27,#PWR30-32,BOOT1,J1-4,RESET1,RV1",
+    "used_designators": "#PWR12,#PWR27,#PWR30-39,BOOT1,C10-12,D3,J1-4,Q1,R13-16,RESET1-2,RV1,S1-2,SELECT2,SW1,VR1-2",
     "variants": []
   },
   "sheets": [
