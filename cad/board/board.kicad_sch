@@ -6077,16 +6077,6 @@
 			(embedded_fonts no)
 		)
 	)
-	(text "TODO: Check programming\nresistor of BMS"
-		(exclude_from_sim no)
-		(at 196.596 67.056 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "057d7f4e-db73-4d8e-be66-a6ed4d487c61")
-	)
 	(text "USB Connector"
 		(exclude_from_sim no)
 		(at 73.66 18.288 0)
@@ -10781,7 +10771,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "2K"
+		(property "Value" "4.7K"
 			(at 199.39 50.7999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10825,7 +10815,7 @@
 				)
 			)
 		)
-		(property "Link" "https://www.digikey.de/de/products/detail/panasonic-industry/ERJ-3EKF2001V/196183"
+		(property "Link" "https://www.digikey.de/de/products/detail/stackpole-electronics-inc/RMCF0603FT4K70/1760998"
 			(at 196.85 49.53 0)
 			(hide yes)
 			(show_name no)
