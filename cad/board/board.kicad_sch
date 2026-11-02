@@ -16172,7 +16172,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SON50P200X200X80-9N-D"
+		(property "Footprint" "Imports:SON50P200X200X80-9N-D"
 			(at 259.08 163.5 0)
 			(hide yes)
 			(show_name no)
