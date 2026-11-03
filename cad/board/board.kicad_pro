@@ -278,7 +278,7 @@
   "erc": {
     "erc_exclusions": [
       [
-        "power_pin_not_driven|1384300|520700|56b2d515-68be-42b4-938f-d339f8baf2d4|00000000-0000-0000-0000-000000000000|/5cdf0ecd-0838-4e57-ad21-0372fa2a058b|/5cdf0ecd-0838-4e57-ad21-0372fa2a058b|",
+        "power_pin_not_driven|1485900|520700|56b2d515-68be-42b4-938f-d339f8baf2d4|00000000-0000-0000-0000-000000000000|/5cdf0ecd-0838-4e57-ad21-0372fa2a058b|/5cdf0ecd-0838-4e57-ad21-0372fa2a058b|",
         ""
       ]
     ],
@@ -821,7 +821,7 @@
         "uuid": "5cdf0ecd-0838-4e57-ad21-0372fa2a058b"
       }
     ],
-    "used_designators": "#PWR12,#PWR27,#PWR30-42,BOOT1,C2,C10-13,D3,J1-4,Q1,R13-17,RESET1-2,RV1,S1-2,SELECT2,SW1,TP9-10,VR1-2",
+    "used_designators": "#PWR12,#PWR27,#PWR30-42,BOOT1,C2,C10-13,D3,J1-4,Q1,R13-18,RESET1-2,RV1,S1-2,SELECT2,SW1,TP9-10,VR1-2",
     "variants": []
   },
   "sheets": [

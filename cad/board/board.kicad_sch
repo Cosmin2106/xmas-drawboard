@@ -6130,7 +6130,13 @@
 		(uuid "037c1455-5ae0-49b4-8232-f8507941ce8b")
 	)
 	(junction
-		(at 172.72 52.07)
+		(at 130.81 52.07)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0c424ab7-f565-40b4-a714-5a488b900b61")
+	)
+	(junction
+		(at 175.26 52.07)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0da73399-b504-4fdb-9f9b-c694375cc629")
@@ -6142,10 +6148,10 @@
 		(uuid "161187e8-b5a5-4d23-9d49-943167358aa3")
 	)
 	(junction
-		(at 132.08 52.07)
+		(at 156.21 63.5)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "2039cf12-2d0b-4be0-bce6-554d085fe0e9")
+		(uuid "1a923cfd-bf43-4cca-b84d-47493a7f8e49")
 	)
 	(junction
 		(at 27.94 101.6)
@@ -6170,6 +6176,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2e083d59-49ee-4d37-a365-b8a38cd9e6c1")
+	)
+	(junction
+		(at 143.51 63.5)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2e279d8d-86f0-4a3c-9c15-b0d7699746a2")
 	)
 	(junction
 		(at 97.79 163.83)
@@ -6232,12 +6244,6 @@
 		(uuid "501c2c96-6c8c-4046-8353-d0c3a1892889")
 	)
 	(junction
-		(at 143.51 52.07)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "55f17401-ae7d-4a14-842f-f5c8380acadb")
-	)
-	(junction
 		(at 223.52 132.08)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6250,16 +6256,10 @@
 		(uuid "5b5a3c78-f969-4803-9fd9-43edb107861c")
 	)
 	(junction
-		(at 165.1 52.07)
+		(at 167.64 52.07)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5e44b13d-1940-447a-8154-2a975c865141")
-	)
-	(junction
-		(at 165.1 63.5)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "60910b4d-77de-4a64-896f-9204022cc9a1")
 	)
 	(junction
 		(at 101.6 166.37)
@@ -6268,10 +6268,22 @@
 		(uuid "65708fff-6f78-4981-93d5-6f028407e1bc")
 	)
 	(junction
+		(at 115.57 52.07)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "686612bb-1061-4f35-9aa3-80b3fc78b586")
+	)
+	(junction
 		(at 25.4 71.12)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6962deec-39d0-47c5-9cec-afb773e92159")
+	)
+	(junction
+		(at 143.51 54.61)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6b15a060-873a-42a4-8d9c-fd0c8a918b8e")
 	)
 	(junction
 		(at 49.53 40.64)
@@ -6280,10 +6292,16 @@
 		(uuid "6c8368aa-82f3-4266-a3a2-bdb0989336fe")
 	)
 	(junction
-		(at 138.43 52.07)
+		(at 125.73 52.07)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7395944a-50a9-4ff7-b751-597df0141640")
+	)
+	(junction
+		(at 167.64 63.5)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7eb7608a-650b-4f1b-bb2f-3c9a61d1e8b1")
 	)
 	(junction
 		(at 97.79 138.43)
@@ -6320,6 +6338,18 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9330b3ea-dc5d-41ac-ad1a-7732994fc92b")
+	)
+	(junction
+		(at 125.73 63.5)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "95a0d6df-820e-48de-8074-cf73da298c63")
+	)
+	(junction
+		(at 152.4 63.5)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "96eb507d-0a26-4973-87f2-1bcec858e1db")
 	)
 	(junction
 		(at 137.16 132.08)
@@ -6364,16 +6394,16 @@
 		(uuid "c1d48b4c-688f-4722-9fcb-976e2c57d6be")
 	)
 	(junction
+		(at 119.38 52.07)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "cc7bf7e6-2222-483c-aa01-306f9cc7a4be")
+	)
+	(junction
 		(at 97.79 36.83)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d2f4534d-97f9-4bfa-95e0-18942f51cce2")
-	)
-	(junction
-		(at 138.43 63.5)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d50d2efc-1228-43dd-98d9-87876d1f63c6")
 	)
 	(junction
 		(at 193.04 119.38)
@@ -6394,22 +6424,10 @@
 		(uuid "df0a52be-6ca8-434a-9d18-b4b0954d39eb")
 	)
 	(junction
-		(at 115.57 52.07)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e6aaecf0-c7a5-453c-8621-25d1a9a99ad3")
-	)
-	(junction
 		(at 49.53 43.18)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e7f9e694-bf28-4a58-a7aa-8dc1b6cd3a3b")
-	)
-	(junction
-		(at 152.4 63.5)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e9508b58-8275-45d1-b82b-5976a2147e2a")
 	)
 	(junction
 		(at 25.4 63.5)
@@ -6458,12 +6476,12 @@
 		(uuid "6461e5f9-eebe-4b4d-9d8b-66c029e0d29b")
 	)
 	(no_connect
-		(at 48.26 53.34)
-		(uuid "c4fa3a73-be9b-4e03-87c1-9427d775697c")
+		(at 130.81 59.69)
+		(uuid "76ac3ec1-afc0-4914-98c9-39920f056b64")
 	)
 	(no_connect
-		(at 128.27 49.53)
-		(uuid "eab8db31-b215-4ed6-925f-b3e077117e09")
+		(at 48.26 53.34)
+		(uuid "c4fa3a73-be9b-4e03-87c1-9427d775697c")
 	)
 	(wire
 		(pts
@@ -6474,6 +6492,16 @@
 			(type default)
 		)
 		(uuid "00128a87-36dc-4802-8a7e-babf95a30770")
+	)
+	(wire
+		(pts
+			(xy 125.73 63.5) (xy 143.51 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0053129b-6bbe-4888-a08e-270c85e089df")
 	)
 	(wire
 		(pts
@@ -6497,7 +6525,7 @@
 	)
 	(wire
 		(pts
-			(xy 132.08 60.96) (xy 132.08 63.5)
+			(xy 119.38 60.96) (xy 119.38 63.5)
 		)
 		(stroke
 			(width 0)
@@ -6507,7 +6535,7 @@
 	)
 	(polyline
 		(pts
-			(xy 180.34 97.79) (xy 284.48 97.79)
+			(xy 181.61 97.79) (xy 284.48 97.79)
 		)
 		(stroke
 			(width 0)
@@ -6524,16 +6552,6 @@
 			(type default)
 		)
 		(uuid "0639941c-4ec3-4a52-ada3-92e73ce980a9")
-	)
-	(wire
-		(pts
-			(xy 128.27 52.07) (xy 132.08 52.07)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "070c3b15-d401-4c9a-9a3b-a129d90829cd")
 	)
 	(wire
 		(pts
@@ -6707,6 +6725,16 @@
 	)
 	(wire
 		(pts
+			(xy 143.51 54.61) (xy 140.97 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1c0f9110-d200-4ef7-86e5-5490e1afd1f2")
+	)
+	(wire
+		(pts
 			(xy 115.57 29.21) (xy 115.57 31.75)
 		)
 		(stroke
@@ -6757,6 +6785,16 @@
 	)
 	(wire
 		(pts
+			(xy 130.81 54.61) (xy 130.81 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "246c5cb5-d745-4cf4-9c06-d8bc662c4e4f")
+	)
+	(wire
+		(pts
 			(xy 48.26 30.48) (xy 50.8 30.48)
 		)
 		(stroke
@@ -6797,7 +6835,7 @@
 	)
 	(polyline
 		(pts
-			(xy 180.34 80.01) (xy 180.34 97.79)
+			(xy 181.61 80.01) (xy 181.61 97.79)
 		)
 		(stroke
 			(width 0)
@@ -6857,7 +6895,7 @@
 	)
 	(wire
 		(pts
-			(xy 172.72 50.8) (xy 172.72 52.07)
+			(xy 175.26 50.8) (xy 175.26 52.07)
 		)
 		(stroke
 			(width 0)
@@ -6947,6 +6985,16 @@
 	)
 	(wire
 		(pts
+			(xy 143.51 63.5) (xy 152.4 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "42dea57f-3126-4e66-9796-746e6494c688")
+	)
+	(wire
+		(pts
 			(xy 245.11 119.38) (xy 234.95 119.38)
 		)
 		(stroke
@@ -6957,7 +7005,7 @@
 	)
 	(wire
 		(pts
-			(xy 138.43 60.96) (xy 138.43 63.5)
+			(xy 125.73 60.96) (xy 125.73 63.5)
 		)
 		(stroke
 			(width 0)
@@ -6967,7 +7015,7 @@
 	)
 	(wire
 		(pts
-			(xy 132.08 53.34) (xy 132.08 52.07)
+			(xy 119.38 53.34) (xy 119.38 52.07)
 		)
 		(stroke
 			(width 0)
@@ -6977,13 +7025,13 @@
 	)
 	(wire
 		(pts
-			(xy 160.02 52.07) (xy 165.1 52.07)
+			(xy 152.4 63.5) (xy 156.21 63.5)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "48649b6b-0403-43f7-8952-ea8fc610cd92")
+		(uuid "4a7e83f4-35e4-4ef2-a8b1-86ebd38d1765")
 	)
 	(polyline
 		(pts
@@ -7037,16 +7085,6 @@
 	)
 	(wire
 		(pts
-			(xy 128.27 54.61) (xy 128.27 52.07)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4dfd71cc-0c63-4483-bbd9-f07d1495f7d5")
-	)
-	(wire
-		(pts
 			(xy 97.79 163.83) (xy 81.28 163.83)
 		)
 		(stroke
@@ -7067,7 +7105,7 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 52.07) (xy 172.72 52.07)
+			(xy 167.64 52.07) (xy 175.26 52.07)
 		)
 		(stroke
 			(width 0)
@@ -7077,7 +7115,7 @@
 	)
 	(wire
 		(pts
-			(xy 132.08 63.5) (xy 138.43 63.5)
+			(xy 119.38 63.5) (xy 125.73 63.5)
 		)
 		(stroke
 			(width 0)
@@ -7107,7 +7145,7 @@
 	)
 	(wire
 		(pts
-			(xy 144.78 54.61) (xy 143.51 54.61)
+			(xy 148.59 54.61) (xy 143.51 54.61)
 		)
 		(stroke
 			(width 0)
@@ -7127,7 +7165,7 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 53.34) (xy 165.1 52.07)
+			(xy 167.64 53.34) (xy 167.64 52.07)
 		)
 		(stroke
 			(width 0)
@@ -7164,16 +7202,6 @@
 			(type default)
 		)
 		(uuid "5e4e6f1e-7705-4ea5-8ee3-f1115e876684")
-	)
-	(wire
-		(pts
-			(xy 115.57 52.07) (xy 118.11 52.07)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5e60dac5-c2bb-480e-9fe6-53ea660af157")
 	)
 	(wire
 		(pts
@@ -7317,7 +7345,7 @@
 	)
 	(wire
 		(pts
-			(xy 152.4 63.5) (xy 152.4 62.23)
+			(xy 156.21 63.5) (xy 156.21 62.23)
 		)
 		(stroke
 			(width 0)
@@ -7337,7 +7365,7 @@
 	)
 	(polyline
 		(pts
-			(xy 121.92 80.01) (xy 180.34 80.01)
+			(xy 121.92 80.01) (xy 181.61 80.01)
 		)
 		(stroke
 			(width 0)
@@ -7387,7 +7415,7 @@
 	)
 	(wire
 		(pts
-			(xy 138.43 52.07) (xy 138.43 53.34)
+			(xy 125.73 52.07) (xy 125.73 53.34)
 		)
 		(stroke
 			(width 0)
@@ -7404,6 +7432,16 @@
 			(type default)
 		)
 		(uuid "830f68df-b883-4b47-8df4-709f2ed7eca3")
+	)
+	(wire
+		(pts
+			(xy 143.51 62.23) (xy 143.51 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "845de9a8-bb4b-4722-a191-fa07c272626a")
 	)
 	(wire
 		(pts
@@ -7497,16 +7535,6 @@
 	)
 	(wire
 		(pts
-			(xy 143.51 54.61) (xy 143.51 52.07)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8d1a33b6-df87-44bd-b893-f9121ae73792")
-	)
-	(wire
-		(pts
 			(xy 262.89 73.66) (xy 276.86 73.66)
 		)
 		(stroke
@@ -7517,17 +7545,7 @@
 	)
 	(wire
 		(pts
-			(xy 143.51 52.07) (xy 144.78 52.07)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "91c217b9-8789-4165-8ee1-fb9922d6daa7")
-	)
-	(wire
-		(pts
-			(xy 132.08 52.07) (xy 138.43 52.07)
+			(xy 119.38 52.07) (xy 125.73 52.07)
 		)
 		(stroke
 			(width 0)
@@ -7627,6 +7645,16 @@
 	)
 	(wire
 		(pts
+			(xy 130.81 52.07) (xy 148.59 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a47a1168-b9a9-4f8a-a877-1cb0b3e0e06a")
+	)
+	(wire
+		(pts
 			(xy 97.79 138.43) (xy 101.6 138.43)
 		)
 		(stroke
@@ -7697,7 +7725,7 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 60.96) (xy 165.1 63.5)
+			(xy 167.64 60.96) (xy 167.64 63.5)
 		)
 		(stroke
 			(width 0)
@@ -7797,7 +7825,7 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 63.5) (xy 172.72 63.5)
+			(xy 167.64 63.5) (xy 175.26 63.5)
 		)
 		(stroke
 			(width 0)
@@ -7824,6 +7852,16 @@
 			(type default)
 		)
 		(uuid "b8b7be56-0c9c-498f-a2ed-d2da3f8427aa")
+	)
+	(wire
+		(pts
+			(xy 125.73 52.07) (xy 130.81 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b8c3536c-5abb-42f5-baf7-0efaa60118e7")
 	)
 	(wire
 		(pts
@@ -7857,16 +7895,6 @@
 	)
 	(wire
 		(pts
-			(xy 152.4 63.5) (xy 165.1 63.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c483389a-aa60-44d3-b642-a50952e40fd6")
-	)
-	(wire
-		(pts
 			(xy 234.95 119.38) (xy 234.95 121.92)
 		)
 		(stroke
@@ -7895,6 +7923,16 @@
 		)
 		(uuid "c7ad03e5-f08f-4215-b12b-42845ef642b2")
 	)
+	(wire
+		(pts
+			(xy 163.83 52.07) (xy 167.64 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c8218544-1dcc-4003-8c55-1fcd8b420cb7")
+	)
 	(polyline
 		(pts
 			(xy 92.71 12.7) (xy 92.71 80.01)
@@ -7907,7 +7945,7 @@
 	)
 	(wire
 		(pts
-			(xy 172.72 53.34) (xy 172.72 52.07)
+			(xy 175.26 53.34) (xy 175.26 52.07)
 		)
 		(stroke
 			(width 0)
@@ -8034,6 +8072,16 @@
 			(type default)
 		)
 		(uuid "d4b3c3e9-19c9-49db-84d5-64d42cc89195")
+	)
+	(polyline
+		(pts
+			(xy 181.61 97.79) (xy 181.61 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d55232c1-08c6-4dc4-ab75-80d176493aea")
 	)
 	(wire
 		(pts
@@ -8167,7 +8215,7 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 44.45) (xy 165.1 52.07)
+			(xy 167.64 45.72) (xy 167.64 52.07)
 		)
 		(stroke
 			(width 0)
@@ -8194,6 +8242,16 @@
 			(type default)
 		)
 		(uuid "e6a8be3f-7e4d-4433-b848-27d04bb9150e")
+	)
+	(wire
+		(pts
+			(xy 140.97 54.61) (xy 140.97 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e735c339-bf0a-4431-bd16-a4018ed4ebab")
 	)
 	(wire
 		(pts
@@ -8247,17 +8305,7 @@
 	)
 	(wire
 		(pts
-			(xy 138.43 52.07) (xy 143.51 52.07)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ec375fef-8b9a-480d-b710-356427e042d7")
-	)
-	(wire
-		(pts
-			(xy 172.72 60.96) (xy 172.72 63.5)
+			(xy 175.26 60.96) (xy 175.26 63.5)
 		)
 		(stroke
 			(width 0)
@@ -8287,7 +8335,7 @@
 	)
 	(wire
 		(pts
-			(xy 138.43 44.45) (xy 138.43 52.07)
+			(xy 125.73 45.72) (xy 125.73 52.07)
 		)
 		(stroke
 			(width 0)
@@ -8397,7 +8445,7 @@
 	)
 	(polyline
 		(pts
-			(xy 180.34 12.7) (xy 180.34 80.01)
+			(xy 181.61 12.7) (xy 181.61 80.01)
 		)
 		(stroke
 			(width 0)
@@ -8437,6 +8485,16 @@
 	)
 	(wire
 		(pts
+			(xy 156.21 63.5) (xy 167.64 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fb139ad2-6f31-485e-8fb3-5feea2f8bcbd")
+	)
+	(wire
+		(pts
 			(xy 231.14 53.34) (xy 243.84 53.34)
 		)
 		(stroke
@@ -8447,13 +8505,13 @@
 	)
 	(wire
 		(pts
-			(xy 138.43 63.5) (xy 152.4 63.5)
+			(xy 115.57 52.07) (xy 119.38 52.07)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "ff6917ed-8b68-4581-934a-25e1240bc5a0")
+		(uuid "ff585175-0111-4ad2-8d06-061b816ec1e6")
 	)
 	(label "USB_P"
 		(at 50.8 43.18 0)
@@ -9530,6 +9588,120 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 143.51 58.42 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "05d35a3d-5199-4ef1-af44-5d453b0e1b04")
+		(property "Reference" "R18"
+			(at 145.542 57.15 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100K"
+			(at 145.542 59.69 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 141.732 58.42 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 143.51 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 143.51 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Link" "https://www.digikey.de/de/products/detail/stackpole-electronics-inc/RMCF0603FT100K/1761112"
+			(at 143.51 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 143.51 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 143.51 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "2b93e51b-20ee-4294-9b04-881b24b4b064")
+		)
+		(pin "1"
+			(uuid "e2a3f682-e437-448f-b50b-932c2f40331a")
+		)
+		(instances
+			(project "board"
+				(path "/5cdf0ecd-0838-4e57-ad21-0372fa2a058b"
+					(reference "R18")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 152.4 63.5 0)
 		(unit 1)
@@ -10276,7 +10448,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 138.43 57.15 0)
+		(at 125.73 57.15 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -10286,7 +10458,7 @@
 		(dnp no)
 		(uuid "239b1bce-7a1b-455e-8cd2-2aa3bb3a8f73")
 		(property "Reference" "C4"
-			(at 135.382 59.6901 0)
+			(at 122.682 59.6901 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10297,7 +10469,7 @@
 			)
 		)
 		(property "Value" "1uF"
-			(at 134.366 62.23 0)
+			(at 121.666 62.23 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10308,7 +10480,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 139.3952 60.96 0)
+			(at 126.6952 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10319,7 +10491,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 138.43 57.15 0)
+			(at 125.73 57.15 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10330,7 +10502,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 138.43 57.15 0)
+			(at 125.73 57.15 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10341,7 +10513,7 @@
 			)
 		)
 		(property "Link" "https://www.digikey.de/de/products/detail/samsung-electro-mechanics/CL10A105KB8NNNC/3887518"
-			(at 138.43 57.15 0)
+			(at 125.73 57.15 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10352,7 +10524,7 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 138.43 57.15 0)
+			(at 125.73 57.15 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10363,7 +10535,7 @@
 			)
 		)
 		(property "Sim.Type" ""
-			(at 138.43 57.15 0)
+			(at 125.73 57.15 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10796,6 +10968,17 @@
 				)
 			)
 		)
+		(property "Link" "https://www.digikey.de/de/products/detail/kemet/C0603C104K3RACTU/416044"
+			(at 137.16 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "c78d6f70-1f3e-4236-ab33-aabdee014efa")
 		)
@@ -10813,7 +10996,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 138.43 44.45 0)
+		(at 125.73 45.72 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -10824,7 +11007,7 @@
 		(fields_autoplaced yes)
 		(uuid "3ed0c07c-82f2-4f1d-b22b-769bd4ed1cf0")
 		(property "Reference" "TP4"
-			(at 140.97 39.8779 0)
+			(at 128.27 41.1479 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10835,7 +11018,7 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 140.97 42.4179 0)
+			(at 128.27 43.6879 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10846,7 +11029,7 @@
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
-			(at 143.51 44.45 0)
+			(at 130.81 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10857,7 +11040,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 143.51 44.45 0)
+			(at 130.81 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10868,7 +11051,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 138.43 44.45 0)
+			(at 125.73 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10879,7 +11062,7 @@
 			)
 		)
 		(property "Link" ""
-			(at 138.43 44.45 0)
+			(at 125.73 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10890,7 +11073,7 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 138.43 44.45 0)
+			(at 125.73 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10901,7 +11084,7 @@
 			)
 		)
 		(property "Sim.Type" ""
-			(at 138.43 44.45 0)
+			(at 125.73 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11689,6 +11872,17 @@
 				)
 			)
 		)
+		(property "Link" "https://www.digikey.de/de/products/detail/kemet/C0603C104K3RACTU/416044"
+			(at 137.16 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "1781efa1-6187-4894-b699-2d58c1c941fb")
 		)
@@ -11706,7 +11900,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 172.72 50.8 0)
+		(at 175.26 50.8 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -11717,7 +11911,7 @@
 		(fields_autoplaced yes)
 		(uuid "57d1e68f-925a-4eae-9ed6-f80a6d08a9bc")
 		(property "Reference" "#PWR019"
-			(at 172.72 54.61 0)
+			(at 175.26 54.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11728,7 +11922,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 172.72 45.72 0)
+			(at 175.26 45.72 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11738,7 +11932,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 172.72 50.8 0)
+			(at 175.26 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11749,7 +11943,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 172.72 50.8 0)
+			(at 175.26 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11760,7 +11954,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 172.72 50.8 0)
+			(at 175.26 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11897,7 +12091,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 165.1 57.15 0)
+		(at 167.64 57.15 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -11907,7 +12101,7 @@
 		(dnp no)
 		(uuid "5885f2d3-3af7-467c-96cb-f80897b83545")
 		(property "Reference" "C7"
-			(at 161.544 59.69 0)
+			(at 164.084 59.69 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11918,7 +12112,7 @@
 			)
 		)
 		(property "Value" "1uF"
-			(at 160.782 62.23 0)
+			(at 163.322 62.23 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11929,7 +12123,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 166.0652 60.96 0)
+			(at 168.6052 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11940,7 +12134,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 165.1 57.15 0)
+			(at 167.64 57.15 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11951,7 +12145,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 165.1 57.15 0)
+			(at 167.64 57.15 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11962,7 +12156,7 @@
 			)
 		)
 		(property "Link" "https://www.digikey.de/de/products/detail/samsung-electro-mechanics/CL10A105KB8NNNC/3887518"
-			(at 165.1 57.15 0)
+			(at 167.64 57.15 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11973,7 +12167,7 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 165.1 57.15 0)
+			(at 167.64 57.15 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11984,7 +12178,7 @@
 			)
 		)
 		(property "Sim.Type" ""
-			(at 165.1 57.15 0)
+			(at 167.64 57.15 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12734,7 +12928,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 172.72 57.15 0)
+		(at 175.26 57.15 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -12744,7 +12938,7 @@
 		(dnp no)
 		(uuid "6ddc79d8-2aa9-4382-ab11-10873f28a4bc")
 		(property "Reference" "C5"
-			(at 169.672 59.6901 0)
+			(at 172.212 59.6901 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12755,7 +12949,7 @@
 			)
 		)
 		(property "Value" "10uF"
-			(at 167.64 62.23 0)
+			(at 170.18 62.23 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12766,7 +12960,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 173.6852 60.96 0)
+			(at 176.2252 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12777,7 +12971,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 172.72 57.15 0)
+			(at 175.26 57.15 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12788,7 +12982,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 172.72 57.15 0)
+			(at 175.26 57.15 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12799,7 +12993,7 @@
 			)
 		)
 		(property "Link" "https://www.digikey.de/de/products/detail/murata-electronics/GRM188R61E106MA73D/3900497"
-			(at 172.72 57.15 0)
+			(at 175.26 57.15 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12810,7 +13004,7 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 172.72 57.15 0)
+			(at 175.26 57.15 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12821,7 +13015,7 @@
 			)
 		)
 		(property "Sim.Type" ""
-			(at 172.72 57.15 0)
+			(at 175.26 57.15 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13429,7 +13623,7 @@
 	)
 	(symbol
 		(lib_id "Regulator_Linear:AP2112K-3.3")
-		(at 152.4 54.61 0)
+		(at 156.21 54.61 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -13440,7 +13634,7 @@
 		(fields_autoplaced yes)
 		(uuid "8d6f0265-58f0-4b96-ab2b-dcd08d829070")
 		(property "Reference" "U3"
-			(at 152.4 45.72 0)
+			(at 156.21 45.72 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13450,7 +13644,7 @@
 			)
 		)
 		(property "Value" "AP2112K-3.3"
-			(at 152.4 48.26 0)
+			(at 156.21 48.26 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13460,7 +13654,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
-			(at 152.4 46.355 0)
+			(at 156.21 46.355 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13471,7 +13665,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/AP2112.pdf"
-			(at 152.4 52.07 0)
+			(at 156.21 52.07 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13482,7 +13676,7 @@
 			)
 		)
 		(property "Description" "600mA low dropout linear regulator, with enable pin, 3.8V-6V input voltage range, 3.3V fixed positive output, SOT-23-5"
-			(at 152.4 54.61 0)
+			(at 156.21 54.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13493,7 +13687,7 @@
 			)
 		)
 		(property "Link" "https://www.digikey.de/de/products/detail/diodes-incorporated/AP2112K-3-3TRG1/4470746?s=N4IgTCBcDaIIIAUwEZlgNIFoDMA6bIAugL5A"
-			(at 152.4 54.61 0)
+			(at 156.21 54.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13504,7 +13698,7 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 152.4 54.61 0)
+			(at 156.21 54.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13515,7 +13709,7 @@
 			)
 		)
 		(property "Sim.Type" ""
-			(at 152.4 54.61 0)
+			(at 156.21 54.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14042,6 +14236,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 39.37 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Link" "https://www.digikey.de/de/products/detail/stackpole-electronics-inc/RMCF0603FT10K0/1761235"
 			(at 39.37 160.02 0)
 			(hide yes)
 			(show_name no)
@@ -14690,6 +14895,17 @@
 				(justify left top)
 			)
 		)
+		(property "Link" "https://www.digikey.de/de/products/detail/c-k/PTS845VM20PSMTR4-LFS/13590132?s=N4IgTCBcDaIAoBUDKAOALAVgGoFkwAY4kcEAlNAfQBkAxJEAXQF8g"
+			(at 223.52 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "b1c232e4-caf5-4eae-a2d3-12f41a0e44c7")
 		)
@@ -14953,6 +15169,17 @@
 					(size 1.27 1.27)
 				)
 				(justify left top)
+			)
+		)
+		(property "Link" "https://www.digikey.de/de/products/detail/c-k/PTS845VM20PSMTR4-LFS/13590132?s=N4IgTCBcDaIAoBUDKAOALAVgGoFkwAY4kcEAlNAfQBkAxJEAXQF8g"
+			(at 275.59 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -16494,7 +16721,8 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_DPDT_x2")
-		(at 123.19 52.07 0)
+		(at 135.89 57.15 0)
+		(mirror y)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -16502,10 +16730,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "c94f72c2-0d02-4f18-992a-ca7e5159e476")
 		(property "Reference" "SW1"
-			(at 123.19 43.18 0)
+			(at 135.89 48.26 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -16515,7 +16742,7 @@
 			)
 		)
 		(property "Value" "SW_DPDT_x2"
-			(at 123.19 45.72 0)
+			(at 135.89 50.8 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -16525,7 +16752,7 @@
 			)
 		)
 		(property "Footprint" "Button_Switch_SMD:SW_SPDT_CK_JS102011SAQN"
-			(at 123.19 52.07 0)
+			(at 135.89 57.15 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16536,7 +16763,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 123.19 52.07 0)
+			(at 135.89 57.15 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16547,7 +16774,18 @@
 			)
 		)
 		(property "Description" "Switch, dual pole double throw, separate symbols"
-			(at 123.19 52.07 0)
+			(at 135.89 57.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Link" "https://www.digikey.de/de/products/detail/c-k/JS102011SAQN/1640095?s=N4IgTCBcDaIFIGUCMAGMKlIQQQIoDkQBdAXyA"
+			(at 135.89 57.15 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17925,7 +18163,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 165.1 44.45 0)
+		(at 167.64 45.72 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -17935,7 +18173,7 @@
 		(dnp no)
 		(uuid "e02530b8-4386-4105-93d7-f7fd55479bd5")
 		(property "Reference" "TP5"
-			(at 162.56 39.8779 0)
+			(at 165.1 41.1479 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -17946,7 +18184,7 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 162.56 42.4179 0)
+			(at 165.1 43.6879 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -17957,7 +18195,7 @@
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
-			(at 170.18 44.45 0)
+			(at 172.72 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17968,7 +18206,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 170.18 44.45 0)
+			(at 172.72 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17979,7 +18217,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 165.1 44.45 0)
+			(at 167.64 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17990,7 +18228,7 @@
 			)
 		)
 		(property "Link" ""
-			(at 165.1 44.45 0)
+			(at 167.64 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18001,7 +18239,7 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 165.1 44.45 0)
+			(at 167.64 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18012,7 +18250,7 @@
 			)
 		)
 		(property "Sim.Type" ""
-			(at 165.1 44.45 0)
+			(at 167.64 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18344,7 +18582,7 @@
 				)
 			)
 		)
-		(property "Link" "https://www.digikey.de/de/products/detail/kingbright/apt1608lvbc-d/5177434"
+		(property "Link" "https://www.digikey.de/de/products/detail/kingbright/APT1608LZGCK/5177435"
 			(at 105.41 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -18812,6 +19050,17 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 222.25 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Link" "https://www.digikey.de/de/products/detail/kemet/C0603C104K3RACTU/416044"
 			(at 222.25 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -19299,7 +19548,7 @@
 				)
 			)
 		)
-		(property "Link" "https://www.digikey.de/de/products/detail/kingbright/APT1608LZGCK/5177435?s=N4IgTCBcDaIIIAUAqBGAbABgBwBkBaA4gMIDSIAugL5A"
+		(property "Link" "https://www.digikey.de/de/products/detail/kingbright/apt1608lvbc-d/5177434"
 			(at 217.17 30.48 0)
 			(hide yes)
 			(show_name no)
@@ -19349,7 +19598,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 132.08 57.15 0)
+		(at 119.38 57.15 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -19359,7 +19608,7 @@
 		(dnp no)
 		(uuid "ef6f21a3-e32b-4b5d-820f-1409b536e2f3")
 		(property "Reference" "C6"
-			(at 128.778 59.436 0)
+			(at 116.078 59.436 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -19370,7 +19619,7 @@
 			)
 		)
 		(property "Value" "10uF"
-			(at 126.746 61.976 0)
+			(at 114.046 61.976 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -19381,7 +19630,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 133.0452 60.96 0)
+			(at 120.3452 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19392,7 +19641,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 132.08 57.15 0)
+			(at 119.38 57.15 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19403,7 +19652,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 132.08 57.15 0)
+			(at 119.38 57.15 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19414,7 +19663,7 @@
 			)
 		)
 		(property "Link" "https://www.digikey.de/de/products/detail/murata-electronics/GRM188R61E106MA73D/3900497"
-			(at 132.08 57.15 0)
+			(at 119.38 57.15 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19425,7 +19674,7 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 132.08 57.15 0)
+			(at 119.38 57.15 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19436,7 +19685,7 @@
 			)
 		)
 		(property "Sim.Type" ""
-			(at 132.08 57.15 0)
+			(at 119.38 57.15 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
